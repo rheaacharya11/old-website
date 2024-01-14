@@ -18,6 +18,7 @@ In the past, I've been...
 
 * A Sustainable Growth Equity Intern at J.P. Morgan Asset Management, with a focus on applications of AI in Climate Tech
 * A Quantitative Trading Intern at Virtu Financial
+* A Teaching Fellow for Harvard's COMPSCI 51 (Programming II) and STAT 110 (Probability) courses
 * An Investment Management & Project Management Intern at Bedel Financial
 * An analyst and project lead supporting VC firms, like Sequoia and Long Journey Ventures, with Harvard Undergraduate Capital Partners
 * A consultant for Fortune 500 companies in retail and sustainability
@@ -28,9 +29,9 @@ In the past, I've been...
 When not working, you can find me...
 
 * Making art, whether through graphic design, painting, sketching, or photography
-* Reading books, and reviewing them on my Goodreads!
+* Reading books, and reviewing them on my Goodreads
 * Writing short stories, both fiction and non-fiction
-* Spending time in nature, whether through sunset walks, runs that more resemble jogs, or blue-biking around Cambridge
+* Spending time in nature, whether through sunset walks, runs, or Blue-biking around Cambridge
 * Facetiming my dog Maui, and daydreaming of our reunion
 * Drinking hot chocolate (and increasingly Earl Grey or green tea) all 12 months of the year
 
