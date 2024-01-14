@@ -14,11 +14,12 @@ It's nice to meet you! My name is Rhea, and I'm a junior at Harvard, learning ab
 ### **My Experiences**
 My personal philosophy is that a genuine passion and a willingness to learn are all that you need to start to make a positive impact within a space. As such, I've tried my best to participate in a wide range of professional and extracurricular endeavors in college, broadening my horizons and allowing me to meet a lot of interesting people along the way. 
 
-In the past, I've been...
+In past & present lives, I've been...
 
 * A Sustainable Growth Equity Intern at J.P. Morgan Asset Management, with a focus on applications of AI in Climate Tech
 * A Quantitative Trading Intern at Virtu Financial
 * A Teaching Fellow for Harvard's COMPSCI 51 (Programming II) and STAT 110 (Probability) courses
+* A Peer Advising Fellow, to a group of 25 Harvard freshmen
 * An Investment Management & Project Management Intern at Bedel Financial
 * An analyst and project lead supporting VC firms, like Sequoia and Long Journey Ventures, with Harvard Undergraduate Capital Partners
 * A consultant for Fortune 500 companies in retail and sustainability
@@ -30,6 +31,7 @@ When not working, you can find me...
 
 * Making art, whether through graphic design, painting, sketching, or photography
 * Reading books, and reviewing them on my Goodreads
+* Event planning to bring communities and friends together
 * Writing short stories, both fiction and non-fiction
 * Spending time in nature, whether through sunset walks, runs, or Blue-biking around Cambridge
 * Facetiming my dog Maui, and daydreaming of our reunion
