@@ -7,7 +7,7 @@ tags: [thoughts]     # TAG names should always be lowercase
 
 At times, I can be a terrible decision-maker. Not because I can't reason through the cost-benefits of various paths, but rather because I reason through them so thoroughly that I often reach a state of decision paralysis. I'll lie on my bed for hours on end, running through various consequences of each step given each action taken now, trying to emulate my econ and AI classes and treat life as a sequential game, where each action has a well-defined expected value. And yet even once I've gone through the long list of possible futures and arrived at some best course of action, I find it hard to go through with it. Why is this? Do I fear the act of choosing, or is it something else?
 
-But what I've found is this frazzled state is not born out of a fear of commitment, but rather a fear of uncertainty. 
+What I've found is this frazzled state is not born out of a fear of commitment, but rather a fear of uncertainty. 
 
 So often we think back to our childhoods, where all we had to worry about was having someone to play with at recess or making it to state in our debate tournament or getting a babysitting job. We yearn for our states of "blissful ignorance."
 
