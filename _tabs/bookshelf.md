@@ -4,8 +4,7 @@ icon: fas fa-book
 order: 4
 ---
 
-Some recent reads! 
-* to indicate my favourites
+Some recent reads! * to indicate my favourites
 
 #### January 2024
 Excellent Sheep 
