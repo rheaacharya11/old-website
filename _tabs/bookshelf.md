@@ -7,27 +7,15 @@ order: 4
 Some recent reads! * to indicate my favourites
 
 #### January 2024
-Excellent Sheep 
-Tomorrow, and Tomorrow, and Tomorrow
-Zero to One
+Excellent Sheep \
+Tomorrow, and Tomorrow, and Tomorrow \
+Zero to One \
 
 #### December 2023
-Never Let Me Go
+Never Let Me Go \
 
 #### November 2023
-The Life Ceremony
+The Life Ceremony \
 
-#### October 2023
 
-#### September 2023
-
-#### August 2023
-
-#### July 2023
-
-### April 2023
-
-### March 2023
-
-### February 2023
 
